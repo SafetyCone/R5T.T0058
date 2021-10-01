@@ -1,0 +1,2 @@
+# R5T.T0058
+NamespacedTypeNameFilePath (strongly-typed) and other related simple strongly-typed data types.
