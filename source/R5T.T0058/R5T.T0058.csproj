@@ -3,9 +3,10 @@
     <ProjectReference Include="..\..\..\R5T.Magyar\source\R5T.Magyar\R5T.Magyar.csproj" />
     <ProjectReference Include="..\..\..\R5T.T0049\source\R5T.T0049\R5T.T0049.csproj" />
     <ProjectReference Include="..\..\..\R5T.T0050\source\R5T.T0050\R5T.T0050.csproj" />
+    <ProjectReference Include="..\..\..\R5T.T0142\source\R5T.T0142\R5T.T0142.csproj" />
   </ItemGroup>
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>netstandard2.1</TargetFramework>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
     <NoWarn>1591;1573</NoWarn>
     <CheckEolTargetFramework>false</CheckEolTargetFramework>
